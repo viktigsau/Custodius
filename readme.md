@@ -1,6 +1,4 @@
-# Custodius
-
-**under construction**
+# Custodius (under construction)
 
 # what?
 
